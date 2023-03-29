@@ -1,6 +1,5 @@
 - 👋 Hi Everyone, I’m Mukesh Kumar
 - 👀 I’m interested in Spring Boot, Microservices, AWS, GCP, Kafka and Angular desingning and development
-- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on cloud
 
 
